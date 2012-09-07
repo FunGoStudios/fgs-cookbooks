@@ -1,0 +1,16 @@
+package "python-software-properties"
+
+package "build-essential"
+package "postgresql-9.1"
+package "postgresql-server-dev-9.1"
+package "libxml2-dev"
+package "proj"
+package "libjson0-dev"
+package "xsltproc"
+package "docbook-xsl"
+package "docbook-mathml"
+package "gettext"
+package "postgresql-contrib-9.1"
+package "pgadmin3"
+
+package "postgresql-9.1-postgis2"
