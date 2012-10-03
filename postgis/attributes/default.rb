@@ -1,0 +1,1 @@
+default[:postgis][:raster] = true
